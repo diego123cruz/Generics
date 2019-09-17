@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Generics</string>
+    <string name="file_provider_authority" translatable="false">com.quiro.fileproviderexample.fileprovidergenerics</string>
+    <string name="bemvindo">Bem vindo</string>
+    <string name="share">Compartilhar via</string>
+
+    <string-array name="frase1">
+        <item>Caros colegas,</item>
+        <item>Por outro lado,</item>
+        <item>Nâo podemos esquecer que</item>
+        <item>Do mesmo modo,</item>
+        <item>A prática mostra que</item>
+        <item>Nunca é demais insistir que</item>
+        <item>A experiência mostra que</item>
+        <item>É fundamental ressaltar que</item>
+        <item>O incentivo ao avanço tecnológico, assim como</item>
+        <item>Assim mesmo,</item>
+    </string-array>
+
+    <string-array name="frase2">
+        <item>a execução deste projeto</item>
+        <item>a complexidade dos esdudos efetuados</item>
+        <item>a atual estrutura de organização</item>
+        <item>o novo modelo estrutural aqui preconizado</item>
+        <item>o desenvolvimento de forma distintas de atuação</item>
+        <item>a constante divulgação das informações</item>
+        <item>a consolidação das estruturas</item>
+        <item>a análise dos diversos resultados</item>
+        <item>o inicío do programa de formação de atitudes</item>
+        <item>a expansão de nossa atividade</item>
+    </string-array>
+
+    <string-array name="frase3">
+        <item>nos obriga à análise</item>
+        <item>cumpre um papel essencial na formulação</item>
+        <item>auxilia a preparação e a estruturação</item>
+        <item>contribui para a correta determinação</item>
+        <item>assume importantes posições na definição</item>
+        <item>facilita a definição</item>
+        <item>prejudica a percepção da importância</item>
+        <item>oferece uma boa oportunidade de verificação</item>
+        <item>acarreta um processo de reformulação</item>
+        <item>exige precisão e difinição</item>
+    </string-array>
+
+    <string-array name="frase4">
+        <item>das nossas opções de desenvolvimento futuro.</item>
+        <item>das nossas metas financeiras e administrativas.</item>
+        <item>das atitudes e das atribuições da diretoria.</item>
+        <item>das novas proposições.</item>
+        <item>das opções básicas para o sucesso do programa.</item>
+        <item>do nosso sistema de formação de quadros.</item>
+        <item>das condições apropriadas para os negócios.</item>
+        <item>dos indices pretendidos.</item>
+        <item>das formas de ação.</item>
+        <item>dos conceitos de participação geral.</item>
+    </string-array>
+
+</resources>
