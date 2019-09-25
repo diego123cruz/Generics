@@ -1,14 +1,20 @@
 package br.com.generics
 
+import android.Manifest
 import android.content.Intent
+import android.content.pm.PackageManager
 import android.content.res.Resources
+import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.core.app.ActivityCompat
+import androidx.core.content.ContextCompat
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.StaggeredGridLayoutManager
 import br.com.generics.adapter.FrasesAdapter
 import kotlinx.android.synthetic.main.activity_main.*
+import java.security.Permission
 
 class MainActivity : AppCompatActivity() {
 
@@ -27,7 +33,6 @@ class MainActivity : AppCompatActivity() {
         })
 
         telaAtual.value = 0
-
     }
 
     fun chengeListItens(tela: Int){
